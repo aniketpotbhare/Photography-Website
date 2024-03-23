@@ -1,1 +1,146 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,900&family=Protest+Guerrilla&display=swap');
+
+body {
+    background: linear-gradient(-90deg, #ade9f1, rgba(51, 43, 43, 0.5));
+    ;
+  
+}
+section{
+font-size:25px ;
+}
+    nav{
+        font-size: 1.5rem;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+
+   
+
+
+
+.featurette-image{
+/* border: 1px solid rgb(252, 252, 252); */
+    height:60vh;
+    width:120%;
+    /* background-size: cover; */
+}
+
+
+#footerstyle {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    font-size: large;
+}
+
+.myslide img {
+    height: 849px;
+}
+
+.carousel-caption h2 {
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Merriweather', serif;
+}
+
+h4 {
+    text-align: center;
+    font-weight: 700px;
+    font-size: 3rem;
+    margin-top: 2px;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Protest Guerrilla', sans-serif;
+
+}
+
+form h2 {
+    text-align: center;
+    font-weight: 700px;
+
+}
+
+
+.servicerow{
+    padding: 10px;
+    /* border: 1px solid rgb(236, 233, 239);
+    border-radius: 50px; */
+    /* margin: 1px; */
+}
+.servicewaliimg img {
+    width: 300px;
+    height: 300px;
+    padding: 9px;
+   
+    border: 2px solid black;
+    box-shadow: 0 0 30px rgb(184, 242, 246);
+    
+}
+
+.servicewaliimg img:hover {
+    box-shadow: 0 0 30px rgb(255, 255, 255);
+    cursor: pointer;
+   
+
+}
+
+
+
+/* CSS for about page>like section */
+
+
+#font1 {
+    font-family: 'Nunito', sans-serif;
+}
+
+
+/* css styling for appling JS  */
+
+#like {
+
+    margin: 100px auto;
+    text-align: center;
+}
+
+#like h2 {
+    border: 2px;
+    color: rgb(83, 25, 25);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular',
+        'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#like h5 {
+    color: rgb(36, 3, 18);
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+
+
+    .fa {
+        font-size: 110px;
+        color: rgb(134, 12, 12);
+
+    }
+    
+
+    i:hover {
+        font-size: 110px;
+        color: rgb(13, 109, 219);
+        /* font-size: 115px; */
+        /* width: 300px; */
+    }
+
+    #aboutap{
+        font-size: larger;
+        margin: 10px;
+        padding: 5px 10px 40px 10px;
+    }
+    p{
+      font-size: 24px;
+    }
+
+
+    .alert alert-success{
+        height: 10%;
+    }
+    
+    
